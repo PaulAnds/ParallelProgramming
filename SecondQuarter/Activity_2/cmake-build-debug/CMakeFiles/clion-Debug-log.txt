@@ -1,0 +1,20 @@
+"F:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\paul-\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S F:\Users\PaulAnds\CLionProjects\ImageProcesser -B F:\Users\PaulAnds\CLionProjects\ImageProcesser\cmake-build-debug
+-- Found Protobuf: C:/Users/paul-/.vcpkg-clion/vcpkg/installed/x64-windows/tools/protobuf/protoc.exe (found version "3.21.12.0") 
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+-- Looking for pthread_create in pthreads
+-- Looking for pthread_create in pthreads - not found
+-- Looking for pthread_create in pthread
+-- Looking for pthread_create in pthread - not found
+-- Found Threads: TRUE  
+-- Found TIFF: optimized;C:/Users/paul-/.vcpkg-clion/vcpkg/installed/x64-windows/lib/tiff.lib;debug;C:/Users/paul-/.vcpkg-clion/vcpkg/installed/x64-windows/debug/lib/tiffd.lib (found version "4.6.0")  
+-- Found OpenCV: C:/Users/paul-/.vcpkg-clion/vcpkg/installed/x64-windows (found version "4.8.0") 
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: F:/Users/PaulAnds/CLionProjects/ImageProcesser/cmake-build-debug
