@@ -692,6 +692,7 @@ The diference here is that now the API.
 ==985== Profiling result:
 
 |            Type | Time(%) |     Time   |  Calls |      Avg |      Min |      Max | Name|
+|      :----:     |  :---:  |  :----:    | :----: |  :----:  |  :----:  |   :---:  |:---:|
 | GPU activities: |  59.86% | 3.2882ms   |      3 | 1.0961ms | 868.94us | 1.5457ms | [CUDA memcpy DtoH]|
 |                 |  31.90% | 1.7523ms   |      2 | 876.14us | 857.20us | 895.09us | [CUDA memcpy HtoD]|
 |                 |   2.02% | 110.91us   |      4 | 27.728us | 26.561us | 28.928us | [CUDA memset]|
