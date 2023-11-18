@@ -1,4 +1,4 @@
-# ACTIVITY 1 PARCIAL 3
+# ACTIVITY 2 PARCIAL 3
 
 Programación de paralelismo
 
